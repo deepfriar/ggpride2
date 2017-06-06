@@ -1,6 +1,6 @@
 ---
-title: "ggpride2"
-author: "a silly observation about ggplot2 default colors"
+title: "`ggpride2`"
+author: "a simple observation about `ggplot2` default colors"
 date: "`r Sys.Date()`"
 output: beamer_presentation
 vignette: >
