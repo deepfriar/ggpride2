@@ -1,0 +1,15 @@
+---
+title: "ggpride2"
+author: "a silly observation about ggplot2 default colors"
+date: "`r Sys.Date()`"
+output: beamer_presentation
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+## Time of day vs. sort of person
+```{r echo=FALSE, warning=FALSE, fig.cap="Persons who will be given the time of day around here", fig.height=6}
+ggpride2::pride_1()
+```

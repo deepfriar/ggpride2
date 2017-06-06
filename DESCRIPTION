@@ -1,0 +1,17 @@
+Package: ggpride2
+Type: Package
+Title: A lot of trouble to make a silly observation about ggplot2 default colors
+Version: 1.3.3.7
+Author: Gordon Arsenoff
+Maintainer: Gordon Arsenoff <deep.friar@gmail.com>
+Description: Does what it says on the tin.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+    seqinr
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
